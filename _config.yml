@@ -21,8 +21,7 @@
 title: Eric Mustieles Salvador
 email: eric.mustieles@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Eric Mustieles Salvdor\'s portfolio. Indie game design with a focus on 
-  narrative-driven experiences. 
+  Indie game design with a focus on narrative-driven experiences. Creator of Outscore and Streamed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://emustieles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brightfuturebcn
