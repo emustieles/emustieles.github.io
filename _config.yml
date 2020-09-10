@@ -28,7 +28,7 @@ twitter_username: brightfuturebcn
 github_username:  emustieles
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
